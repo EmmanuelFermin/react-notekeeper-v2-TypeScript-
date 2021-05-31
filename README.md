@@ -1,2 +1,2 @@
 # react-notekeeper-v2-TypeScript-
-useState, useContext, memo
+useState, useContext, memo, useCallback
